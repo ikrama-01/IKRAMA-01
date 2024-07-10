@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Travel Advisor](https://github.com/ikrama-01/travel_advisory)
 
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🌱 I’m currently learning **JAVA, Spring & Spring Boot, Micro-services**
 
 - 📫 How to reach me **ikrama.s@somaiya.edu**
 
